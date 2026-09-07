@@ -6,6 +6,9 @@ should not act on its own.
 
 - **[atomic-ehr/codegen](https://github.com/atomic-ehr/codegen)** — type-safe SDK
   generation from FHIR schemas, published on npm. TypeScript, Python and C#.
+- **[lattice-boltzmann-performance](https://github.com/MikhailArtemyev/lattice-boltzmann-performance)**
+  — MPI and CUDA performance analysis of a D2Q9 solver. 9 min to 2.48s, 576 cores on Isambard 3,
+  CUDA at 87% of an NVIDIA T4's peak bandwidth.
 
 ### Built, but not open source
 
@@ -17,5 +20,4 @@ should not act on its own.
   Queue-driven workers, Vault Transit encryption, Keycloak, full OpenTelemetry stack.
 - **The Crab** — self-supervised entity resolution, built at Health Samurai.
   Trains itself on unlabelled data and derives every threshold from measurement.
-- **HPC** — lattice-Boltzmann solver, 9 min to 2.48s, 576 cores on Isambard 3,
-  CUDA at 87% of a T4's peak.
+
