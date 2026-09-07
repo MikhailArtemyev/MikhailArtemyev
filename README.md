@@ -1,6 +1,5 @@
-MSc Advanced Computing @ Imperial. Maths & CS at Bristol before that.
-I build ML systems, and I care about performance and about when a system
-should not act on its own.
+MSc Advanced Computing @ Imperial College. Maths & CS at University of Bristol before that.
+I build ML systems, and I care about performance and reliability.
 
 ### Public
 
